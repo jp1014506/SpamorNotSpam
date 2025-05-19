@@ -1,0 +1,7 @@
+Feature,Min,Max,Average
+allCapsCount,0,793,14.77
+wordCount,0,13304,236.20
+spamWordCount,0,37,0.47
+specialCharCount,0,211,0.96
+misspelledCount,0,13304,236.20
+urlCount,0,0,0.00
